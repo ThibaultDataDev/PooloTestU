@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\utilisateur\\anaconda3\\envs\\data-ia\\python.exe",
+    "python.testing.pytestArgs": [
+        "testu"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
